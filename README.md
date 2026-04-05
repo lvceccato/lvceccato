@@ -1,4 +1,4 @@
-# 🏄🏻‍♂️ Lorenzo Ceccato
+# Lorenzo Ceccato
 
 **`Aluno do Curso Técnico de Informática (CETEC - UCS)`**
 
