@@ -2,9 +2,6 @@
 
 **`Aluno do Curso Técnico de Informática (CETEC - UCS)`**
 
----
-### 👤 Sobre mim
-
 #### Me chamo [Lorenzo Vendruscolo Ceccato](https://www.linkedin.com/in/lvceccato/) sou estudante da área de tecnologia, estou em constante aprendizado, com interesse em programação, lógica computacional, desenvolvimento de software e arquitetura de software. 
 #### Busco aprimorar minhas habilidades por meio de estudo e de projetos práticos, usando a programaçãos solucionar problemas.
 
