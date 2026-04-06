@@ -6,7 +6,7 @@
 #### Busco aprimorar minhas habilidades por meio de estudo e de projetos práticos, usando a programaçãos solucionar problemas.
 
 ---
-### 🛠️ Linguagens e Tecnologias em Aprendizado
+### 🧰 Linguagens e Tecnologias em Aprendizado
 
 <img 
     align="left"
